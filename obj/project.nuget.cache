@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fR6GmP9qhfvCzYvJtMTakITVcscst4vLjOtiCIsHOoOvDUEJDP7BiozPwS0FfeE8lqgtfz8wf2wuGSfAvxIFcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\strob\\OneDrive\\Documents\\Strippling-Worrier-54\\Strippling-Worrier-54.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\strob\\.nuget\\packages\\raylib-cs\\4.0.0.2\\raylib-cs.4.0.0.2.nupkg.sha512",
+    "C:\\Users\\strob\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
